@@ -10,3 +10,9 @@ Spatial Operator Algebra: https://dartslab.jpl.nasa.gov/References/pdf/soammc-pa
 You should first run Initial.m then program.m
 
 It will plot a 3d plot of the end factor of the robot arm.
+
+Starting position of the manipulator in Matlab VRL
+> ![Starting position of the manipulator](https://user-images.githubusercontent.com/128630855/227711686-f69f8991-33fc-4afb-855e-5bd59d13e953.jpg) 
+
+Example trajectory of the end-factor of the manipulator
+![Example trejectory of end-factor](https://user-images.githubusercontent.com/128630855/227711691-df37a106-ad4d-419c-badc-53c291b5416f.jpg)
